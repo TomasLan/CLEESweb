@@ -1,0 +1,30 @@
+body {
+  padding: 5; 
+  margin: 5; 
+}
+
+p { 
+  margin: 0px 0px 0px 0px;
+  font-size: 1em;
+}
+
+.head {  
+  font-family: Arial, Helvetica; 
+  font-size: 1.7em;
+  font-weight: bold;
+  margin: 2px 0px 20px 0px;
+}
+
+.svg { 
+  font-family: Arial, Helvetica;
+  font-size: 1.3em;
+  font-weight: Bold;
+  margin: 0px 0px 0px 0px;
+}
+
+.info { 
+  font-family: Arial, Helvetica;
+  font-size: 0.7em;
+  font-weight: Bold;
+  margin: 0px 0px 0px 0px;
+}
